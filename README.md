@@ -2,7 +2,7 @@
 - This is static website build using HTML, CSS, and some JavaScript.
 - It's serves as my onlice CV. and also showing my skills in webdev.
   
-[Live Demo](https://lelehmolapo.github.io/rmolapo-portfolio/)
+[Live Demo](https://rmolapo-portfolio.vercel.app/)
 
 ## Table of Contents
 
@@ -20,11 +20,10 @@
 
 Feel free to reach out to me for collaboration, inquiries, or just to connect!
 
-- [Email](mailto:sehmaluva@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/malvin-t-machingura)
-- ![GitHub](https://github.com/sehmaluva)
+- [Email](mailto:mopelimolapo300@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/relebohile-molapo/) <!-- You might want to create and add your LinkedIn profile link here -->
+- ![GitHub](https://github.com/LelehMolapo)
 [Repository](https://github.com/LelehMolapo/rmolapo-portfolio)
-[Live Demo](https://lelehmolapo.github.io/rmolapo-portfolio/)
 
 ## License
 
